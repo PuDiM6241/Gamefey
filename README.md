@@ -44,35 +44,42 @@ Inclui som de conquista (AchievementSound.mp3).
 Pontos são somados ao total do jogador.
 
 🕹️ Estrutura do Projeto
-Gamefey/
-│
-├── assets/
-│   ├── AchievementSound.mp3
-│   ├── GenericFriendsIcon.png
-│   └── UserGenericIcon.png
-│
-├── games/
-│   ├── PudimClicker/
-│   │   ├── main.js
-│   │   ├── info.json
-│   │   └── cover.png
-│   │
-│   └── ... (outros jogos)
-│
-├── app.js
-├── LocalAsyncStorage.js
-├── package.json
-└── README.md
+Gamefey{
+  assets{
+    AchievementSound.mp3
+    GenericFriendsIcon.png
+    UserGenericIcon.png
+  }
+
+  games{
+    PudimClicker{
+      main.js
+      info.json
+      cover.png
+    }
+
+    # outros jogos seguem o mesmo padrão
+    OutroJogo{
+      main.js
+      info.json
+      cover.png
+    }
+  }
+
+  app.js
+  LocalAsyncStorage.js
+  package.json
+  README.md
+}
 
 🧩 Estrutura de um Jogo
-
-Cada jogo é um módulo dentro de /games, e deve seguir esta estrutura mínima:
-
-/games/NomeDoJogo/
-│
-├── main.js       → Código principal do jogo (componente React)
-├── info.json     → Informações visuais
-└── cover.png     → Imagem de capa
+games{
+  NomeDoJogo{
+    main.js        # código do jogo (componente React)
+    info.json      # metadados (nome e descrição)
+    cover.png      # imagem de capa para o GameHub
+  }
+}
 
 Exemplo de info.json
 {
@@ -88,7 +95,6 @@ await LocalDB.addAchievementUser(
   'Aprendiz',             // Descrição
   20                      // Pontos
 );
-
 
 🔊 Toca o som de conquista e salva o progresso no AsyncStorage.
 
