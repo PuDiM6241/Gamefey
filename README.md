@@ -1,7 +1,36 @@
 🎮 Gamefey
 
-Um mini hub de jogos desenvolvido em React Native + Expo, com sistema de login, conquistas, amigos e perfis de jogador.
-Cada jogo pode ser integrado dinamicamente, armazenando progresso e conquistas localmente.
+Um hub de mini-jogos desenvolvido em React Native com Expo, com sistema de login, conquistas, amigos e perfis de jogador.
+Cada jogo é carregado dinamicamente e pode interagir com o sistema local de conquistas do app.
+
+💡 Ideia Geral
+
+O Gamefey nasceu da ideia de unir vários mini-jogos em um único aplicativo,
+mantendo um perfil unificado para o jogador — com conquistas, pontuação total e amigos.
+
+A proposta é oferecer um arcade pessoal onde cada jogo adiciona progresso ao seu perfil,
+incentivando a competição amigável e o senso de evolução.
+
+🎯 Motivação
+
+Criar um ambiente simples e divertido para armazenar e jogar pequenos games dentro de um só app.
+
+Muitos mini-jogos são criados isoladamente, sem progressão ou integração entre eles.
+O Gamefey foi pensado como uma plataforma local de jogos,
+que conecta tudo em um sistema único de perfil, pontuação e conquistas —
+sem depender de servidor online.
+
+🧩 Objetivo
+
+Unificar jogos simples em uma plataforma modular.
+
+Fornecer um sistema de login e armazenamento local de progresso.
+
+Criar conquistas e pontuação global entre os jogos.
+
+Permitir adicionar amigos e visualizar o progresso deles.
+
+Fornecer uma base expansível para futuros mini-games.
 
 📱 Funcionalidades Principais
 
