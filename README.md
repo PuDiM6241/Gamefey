@@ -169,19 +169,20 @@ addAchievementUser() – Adiciona conquista ao jogador
 👤 Telas Principais
 Tela	Função
 Login / Register	Cria e acessa contas
+<img width="379" height="803" alt="Captura de tela 2025-11-12 144056" src="https://github.com/user-attachments/assets/a16b353d-e079-4b1c-94a7-b859cc72ae85" />
 GameHub	Lista todos os jogos
+<img width="369" height="801" alt="Captura de tela 2025-11-12 144113" src="https://github.com/user-attachments/assets/a339970b-086b-48d2-8b64-7f8471739bc1" />
 GamePage	Abre o jogo selecionado
+<img width="377" height="802" alt="Captura de tela 2025-11-12 144259" src="https://github.com/user-attachments/assets/ea34d2ef-de35-4d2b-b061-88ed8502924a" />
 UserProfile	Mostra perfil e conquistas
+<img width="377" height="798" alt="Captura de tela 2025-11-12 144122" src="https://github.com/user-attachments/assets/0086bcef-7902-4777-9e00-9ff7ffdb223c" />
 FriendsPage	Gerencia e exibe amigos
+<img width="376" height="797" alt="image" src="https://github.com/user-attachments/assets/94c71ad5-8f35-4b1f-9bc9-602d23fd4f66" />
+
 🎨 Tema Visual
 
 O app segue uma paleta moderna e consistente:
 
-Cor	Uso
-#0d0d0d	Fundo principal (preto carvão)
-#1a1a1a	Cartões e blocos de conteúdo
-#ff9100	Destaques, botões e ícones
-#cccccc	Textos secundários
 🧠 Roadmap Futuro
 
 🚧 Funcionalidades planejadas:
@@ -191,8 +192,6 @@ Sistema de ranking global (pontuação total)
 Sincronização com servidor remoto
 
 Mais mini-jogos integrados
-
-Avatares e personalização de perfil
 
 🏆 Autor
 
