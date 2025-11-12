@@ -182,7 +182,7 @@ UserProfile	Mostra perfil e conquistas
 
 FriendsPage	Gerencia e exibe amigos
 
-<img width="350" height="750" alt="Captura de tela 2025-11-12 144056" src="https://github.com/user-attachments/assets/a16b353d-e079-4b1c-94a7-b859cc72ae85" /><img width="350" height="750" alt="Captura de tela 2025-11-12 144113" src="https://github.com/user-attachments/assets/a339970b-086b-48d2-8b64-7f8471739bc1" /><img width="350" height="750" alt="Captura de tela 2025-11-12 144259" src="https://github.com/user-attachments/assets/ea34d2ef-de35-4d2b-b061-88ed8502924a" /><img width="350" height="750" alt="Captura de tela 2025-11-12 144122" src="https://github.com/user-attachments/assets/0086bcef-7902-4777-9e00-9ff7ffdb223c" /><img width="350" height="750" alt="image" src="https://github.com/user-attachments/assets/94c71ad5-8f35-4b1f-9bc9-602d23fd4f66" />
+<img width="300" height="600" alt="Captura de tela 2025-11-12 144056" src="https://github.com/user-attachments/assets/a16b353d-e079-4b1c-94a7-b859cc72ae85" /><img width="300" height="600" alt="Captura de tela 2025-11-12 144113" src="https://github.com/user-attachments/assets/a339970b-086b-48d2-8b64-7f8471739bc1" /><img width="300" height="600" alt="Captura de tela 2025-11-12 144259" src="https://github.com/user-attachments/assets/ea34d2ef-de35-4d2b-b061-88ed8502924a" /><img width="300" height="600" alt="Captura de tela 2025-11-12 144122" src="https://github.com/user-attachments/assets/0086bcef-7902-4777-9e00-9ff7ffdb223c" /><img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/94c71ad5-8f35-4b1f-9bc9-602d23fd4f66" />
 
 🎨 Tema Visual
 
