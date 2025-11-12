@@ -212,12 +212,3 @@ Este projeto é de código aberto sob a licença MIT
 .
 
 Sinta-se à vontade para clonar, modificar e criar seus próprios jogos dentro do Gamefey!
-
-🧡 Exemplo de tela
-
-(adicione prints depois que o app estiver rodando no Expo)
-
-📱 Login Page
-📱 GameHub
-📱 Perfil de Usuário
-📱 Conquistas desbloqueadas
